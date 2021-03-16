@@ -10,9 +10,9 @@ The findings are:
 2. Location proved to be important also when considering neighbourhood data — average prices between different areas do vary significantly with least attractive ones being  Dorchester, Mattapan or East Boston and most attarctive - Back Bay, South Boston Waterfront and Fenway.
 3. Other factors related to the higher prices are strict cancellation policies and guest verification requirements. Surprisingly (or not for some), higher number of reviews tend to be associated with listings with lower prices.
 
-Details of the analysis can be found in the notebook airbnb.ipynb.
+Details of the analysis can be found in the notebook airbnb.ipynb and a blog post based on those can be accessed here: https://aleks-says.medium.com/what-do-we-really-pay-for-when-renting-an-airbnb-property-7ec9a3e2e798.
 
 Libraries used in the project are: pandas, numpy, matplotlib, seaborn and sklearn.
 
-Data comes from kaggle.com and can be found here: https://www.kaggle.com/airbnb/boston
+Data comes from kaggle.com and can be found here: https://www.kaggle.com/airbnb/boston.
 
