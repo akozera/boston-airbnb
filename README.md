@@ -1,7 +1,5 @@
 # boston-airbnb
 
-The repository must have a README.md file that communicates the libraries used, the motivation for the project, the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgements.
-
 This is a repo that contains my analysis of the Boston AirBnB data from the time period Sep 2016 - Sep 2017. The primary goal of the analysis is to try finding answers to the following business questions:
 1. How do reviews influence the price?
 2. What areas are the most and least attractive?
